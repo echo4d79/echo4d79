@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://github-readme-stats.vercel.app/api?username=echo4d79e&show_icons=true&theme=transparent)
+
+![Visitor Count](https://profile-counter.glitch.me/echo4d79/count.svg)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=echo4d79&layout=compact&theme=tokyonight)
+
+![](https://github-readme-activity-graph.cyclic.app/graph?username=echo4d79&theme=dracula)
+
+![](https://img.shields.io/badge/java-1.0-brightgreen)
