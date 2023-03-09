@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-readme-stats.vercel.app/api?username=echo4d79e&show_icons=true&theme=transparent)
+![](https://img.shields.io/badge/Github-echo4d79-lightgrey?style=social&logo=github)  ![](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%E5%85%AD%E5%8D%83%E9%87%8Ci-blue)  ![](https://img.shields.io/badge/%E5%BE%AE%E5%8D%9A-4D79-orange)
+
+#### 初入门的小菜鸡🌱  不跳的马小跳🤔
+
+![](https://github-readme-stats.vercel.app/api?username=echo4d79&show_icons=true&theme=transparent)
 
 ![Visitor Count](https://profile-counter.glitch.me/echo4d79/count.svg)
 
@@ -23,6 +27,6 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=echo4d79&theme=dracula)
 
-![](https://img.shields.io/badge/java-1.0-brightgreen)
 
-![](https://img.shields.io/badge/Github-echo4d79-lightgrey?style=social&logo=github)
+
+
