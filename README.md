@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=echo4d79&theme=dracula)
 
 ![](https://img.shields.io/badge/java-1.0-brightgreen)
+
+![](https://img.shields.io/badge/Github-echo4d79-lightgrey?style=social&logo=github)
